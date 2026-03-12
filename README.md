@@ -1,2 +1,77 @@
-# INTRODUCTION-TO-BIOINFORMATICS-GROOP_13
-This repository contains materials and assignments for the Introduction to Bioinformatics course (Group 13).
+
+Bioinformatics Assignment – Group 4 I. Project Title
+
+Multi-Language Bioinformatics Workflow Automation Using Bash
+
+II. Brief Overview of Introduction to Bioinformatics
+
+Bioinformatics is an interdisciplinary field that integrates biology, computer science, statistics, and information technology to analyze and interpret biological data. With the rapid advancement of sequencing technologies and molecular biology research, enormous amounts of biological data are generated daily. Bioinformatics provides the computational tools and methods required to store, organize, analyze, and visualize this complex data.
+
+One of the major applications of bioinformatics is in genomics, where computational methods are used to study DNA sequences, identify genes, and understand genetic variation. It is also used in proteomics, transcriptomics, systems biology, drug discovery, and evolutionary biology. Bioinformatics tools help researchers analyze large biological datasets efficiently and derive meaningful insights that would be difficult to obtain using traditional laboratory methods alone.
+
+Programming and automation are essential components of bioinformatics. Researchers frequently use programming languages and computational workflows to automate repetitive tasks, analyze biological datasets, and ensure reproducibility of results.
+
+III. Description of the Assignment
+
+This project demonstrates collaborative software development and workflow automation using multiple programming languages in a bioinformatics context. Each member of the group contributed a script written in a different programming language. These scripts generate structured information about the contributors and their bioinformatics interests.
+
+A Bash workflow script (run_workflow.sh) is used to automate the execution of all scripts within the repository. The workflow collects outputs from each script and combines them into a structured CSV file stored in the artifacts directory. This CSV file can then be used for downstream analysis or integration with other bioinformatics tools.
+
+The main objectives of this assignment are to:
+
+Demonstrate the use of multiple programming languages in bioinformatics. Implement workflow automation using Bash scripting. Practice collaborative software development using GitHub. Generate structured data outputs suitable for downstream analysis. Develop clear and professional project documentation using
+
+NAme of the contributor
+
+1:fatima shu'aibu 
+2.muhammad hasib ramadan
+
+
+
+GIthub username
+
+Name:
+
+Name: 
+
+GitHub Username:
+
+
+Name: 
+
+GitHub Username:
+
+Name:
+GitHub Username:
+
+
+Name: 
+GitHub Username:
+
+
+Group Members Matriculation Numbers
+
+S/N	Matric Number
+1	BASUG/UG/BMS/ANA/22/5508
+2	BASUG/UG/BMS/ANA/22/5348
+3	BASUG/UG/BMS/ANA/22/7896
+4	BASUG/UG/BMS/ANA/22/
+5	BASUG/UG/BMS/ANA/22/
+Area of interest in bionformatic hamza sadisu:genomic
+
+fatima isyaku waziri:trascriptomic
+
+sulaiman Abubakr:trascriptomic
+
+Amira:genomic
+muhammadhasib:data analysis 
+
+Authors
+
+This project was collaboratively developed by Group as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
+
+lead Author/Project maintainer
+fatima shu,aibu- workflow design, python scriipt Development, Repository management. 
+Conclusion
+
+This project introduces students to the fundamentals of bioinformatics and collaborative programming. Through the use of GitHub and documentation practices, students gain experience in teamwork, coding, and project organization which are essential skills in modern bioinformatics research.
