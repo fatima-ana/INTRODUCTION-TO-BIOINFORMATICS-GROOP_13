@@ -68,7 +68,7 @@ muhammadhasib:data analysis
 
 Authors
 
-This project was collaboratively developed by Group as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
+This project was collaboratively developed by Group 13 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
 
 lead Author/Project maintainer
 fatima shu,aibu- workflow design, python scriipt Development, Repository management. 
