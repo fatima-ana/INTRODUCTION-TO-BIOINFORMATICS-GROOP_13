@@ -51,7 +51,7 @@ Area of interest in bionformatic fatima shuaibu:genomic
 muhammadhasib:Data Analysis 
 Amira:genomic
 muhammadhasib:data analysis 
-Aisha Abdullah:
+Aisha Abdullah: biological system 
 Joshua:trascriptomic
 Authors
 
