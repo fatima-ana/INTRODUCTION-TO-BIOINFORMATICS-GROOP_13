@@ -25,28 +25,17 @@ NAme of the contributor
 
 1:fatima shu'aibu 
 2.muhammad hasib ramadan
-
-
+3-Aisha Abdullahi
+4-miracle jeremia 
+5-joshua 
 
 GIthub username
-
-Name:
-
-Name: 
-
-GitHub Username:
-
-
-Name: 
-
-GitHub Username:
-
-Name:
-GitHub Username:
-
-
-Name: 
-GitHub Username:
+aishatua5050-cmyk
+fatima/jmr
+miraclejeremiah606
+Muhammadhasibramadan_source
+Joshu3945-del
+ 
 
 
 Group Members Matriculation Numbers
@@ -55,23 +44,22 @@ S/N	Matric Number
 1	BASUG/UG/BMS/ANA/22/5508
 2	BASUG/UG/BMS/ANA/22/5348
 3	BASUG/UG/BMS/ANA/22/7896
-4	BASUG/UG/BMS/ANA/22/
-5	BASUG/UG/BMS/ANA/22/
-Area of interest in bionformatic hamza sadisu:genomic
+4	BASUG/UG/BMS/ANA/22/7474
+5	BASUG/UG/BMS/ANA/22/5985
+Area of interest in bionformatic fatima shuaibu:genomic
 
-fatima isyaku waziri:trascriptomic
-
-sulaiman Abubakr:trascriptomic
-
+muhammadhasib:Data Analysis 
 Amira:genomic
 muhammadhasib:data analysis 
-
+Aisha Abdullah:
+Joshua:
 Authors
 
 This project was collaboratively developed by Group 13 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
 
 lead Author/Project maintainer
 fatima shu,aibu- workflow design, python scriipt Development, Repository management. 
+
 Conclusion
 
 This project introduces students to the fundamentals of bioinformatics and collaborative programming. Through the use of GitHub and documentation practices, students gain experience in teamwork, coding, and project organization which are essential skills in modern bioinformatics research.
