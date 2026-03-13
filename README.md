@@ -52,7 +52,7 @@ muhammadhasib:Data Analysis
 Amira:genomic
 muhammadhasib:data analysis 
 Aisha Abdullah:
-Joshua:
+Joshua:trascriptomic
 Authors
 
 This project was collaboratively developed by Group 13 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
